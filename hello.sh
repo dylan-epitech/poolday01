@@ -1,0 +1,1 @@
+echo "Hello, $USER ! Today is $(date)"
